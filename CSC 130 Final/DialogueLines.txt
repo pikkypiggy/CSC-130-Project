@@ -1,0 +1,9 @@
+string1*Snyder: 'Don't call me Stupid'
+
+string2*Snyder: 'I'm so Sigma'
+
+string3*Snyder: 'I'm Tired'
+
+string4*Snyder: 'What're you doing?'
+
+string5*Snyder: 'You're Cooked'

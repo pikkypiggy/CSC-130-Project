@@ -1,0 +1,23 @@
+Art/f.png*f0
+Art/matt.png*matt
+Art/mattWalk1.png*DmattWalk0
+Art/mattWalk2.png*DmattWalk1
+Art/mattWalk3.png*DmattWalk2
+Art/mattWalk4.png*DmattWalk3
+Art/pixil-layer-Layer 1 (4).png*AmattWalk0
+Art/pixil-layer-Layer 1 (5).png*AmattWalk1
+Art/pixil-layer-Layer 1 (6).png*AmattWalk2
+Art/pixil-layer-Layer 1 (7).png*AmattWalk3
+Art/mattWalk1.3.png*SmattWalk0
+Art/mattWalk2.3.png*SmattWalk1
+Art/mattWalk3.3.png*SmattWalk2
+Art/mattWalk4.3.png*SmattWalk3
+Art/mattWalk1.4.png*WmattWalk0
+Art/mattWalk2.4.png*WmattWalk1
+Art/mattWalk3.4.png*WmattWalk2
+Art/mattWalk4.4.png*WmattWalk3
+Art/Shell.png*shell
+Art/Chicken.png*Chicken
+Art/Border.png*Border
+Art/Ground.png*Ground
+Art/Zynn.png*Zynn
